@@ -1,0 +1,5 @@
+- Hi, I'am Abdur Raheem
+- I am a BE CSE student
+- Aspiring to be a SE in FAANG 
+- I am super interested in open source , web development , cp etc...
+- New to github ^^
